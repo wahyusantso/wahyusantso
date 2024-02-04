@@ -10,5 +10,5 @@
 <h1 align="center">Project List</h1>
 <h3 align="left">Android Native</h3>
 <ul>
-  <li>[Citra Cafe Mobile](https://github.com/wahyusantso/CitraCafeMobile)</li>
+  <li> [Citra Cafe Mobile](https://github.com/wahyusantso/CitraCafeMobile) </li>
 </ul>
