@@ -13,7 +13,7 @@
   <li> 
     [Citra Cafe Mobile](https://github.com/wahyusantso/CitraCafeMobile)
   </li>
-</ul><br>
+</ul>
 <h3 align="left">Laravel</h3>
 <ul>
   <li> 
