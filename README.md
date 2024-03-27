@@ -3,18 +3,18 @@
 <h3 align="left">Android Native</h3>
 <ul>
   <li> 
-    [Citra Cafe Mobile](https://github.com/wahyusantso/CitraCafeMobile)
+    [Citra Cafe Mobile](https://github.com/wahyusantso/Preview-Project-CitraCafe-Mobile "Visit Repo").
   </li>
 </ul>
 <h3 align="left">Laravel</h3>
 <ul>
   <li> 
-    [Citra Cafe Website](https://github.com/wahyusantso/CitraCafeWebsite)
+    [Citra Cafe Website](https://github.com/wahyusantso/Preview-Project-CitraCafe-Website)
   </li>
   <li> 
-    [Laracamp (BuildWithAngga Course)](https://github.com/wahyusantso/laracamp-bwa-class)
+    [Laracamp (BuildWithAngga Course)](https://github.com/wahyusantso/Preview-Project-Laracamp-Bwa-Class)
   </li>
   <li> 
-    [Human Resource Management System V1](https://github.com/wahyusantso/HRMS-BPR-Sehat-Sejahtera)
+    [Human Resource Management System V1](https://github.com/wahyusantso/Preview-Project-HRMS-BPR-Sehat-Sejahtera)
   </li>
 </ul>
