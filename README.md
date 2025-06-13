@@ -2,6 +2,8 @@
 <h1 align="center">Project List</h1>
 <h3 align="left">Android Native</h3>
 * [Citra Cafe Mobile](https://github.com/wahyusantso/Preview-Project-CitraCafe-Mobile)
+* [linkedin](https://www.linkedin.com/in/prawito-hudoro/)
+
 <h3 align="left">Laravel</h3>
 <ul>
   <li>IReporter Project: https://github.com/wahyusantso/Preview-Project-IReporter </li>
