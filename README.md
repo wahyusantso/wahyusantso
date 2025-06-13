@@ -1,9 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Project List</h1>
 <h3 align="left">Android Native</h3>
-<ul>
-  <li> [Citra Cafe Mobile](https://github.com/wahyusantso/Preview-Project-CitraCafe-Mobile) </li>
-</ul>
+* [Citra Cafe Mobile](https://github.com/wahyusantso/Preview-Project-CitraCafe-Mobile)
 <h3 align="left">Laravel</h3>
 <ul>
   <li>IReporter Project: https://github.com/wahyusantso/Preview-Project-IReporter </li>
