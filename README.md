@@ -5,10 +5,8 @@
 * [Citra Cafe Mobile](https://github.com/wahyusantso/Preview-Project-CitraCafe-Mobile)
 
 <h3 align="left">Laravel</h3>
-<ul>
-  <li>IReporter Project: https://github.com/wahyusantso/Preview-Project-IReporter </li>
-  <li>Citra Cafe Website: https://github.com/wahyusantso/Preview-Project-CitraCafe-Website</li>
-  <li>Laracamp (BuildWithAngga Course): https://github.com/wahyusantso/Preview-Project-Laracamp-Bwa-Class</li>
-  <li>Human Resource Management System V1: https://github.com/wahyusantso/Preview-Project-HRMS-BPR-Sehat-Sejahtera</li>
-</ul>
 
+* [IReporter Project](https://github.com/wahyusantso/Preview-Project-IReporter)
+* [Citra Cafe Website](https://github.com/wahyusantso/Preview-Project-CitraCafe-Website)
+* [Laracamp (BuildWithAngga Course)](https://github.com/wahyusantso/Preview-Project-Laracamp-Bwa-Class)
+* [Human Resource Management System V1](https://github.com/wahyusantso/Preview-Project-HRMS-BPR-Sehat-Sejahtera)
