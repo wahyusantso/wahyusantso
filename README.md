@@ -1,8 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Project List</h1>
 <h3 align="left">Android Native</h3>
-* [Citra Cafe Mobile](https://github.com/wahyusantso/Preview-Project-CitraCafe-Mobile)
-* [linkedin](https://www.linkedin.com/in/prawito-hudoro/)
 
 <h3 align="left">Laravel</h3>
 <ul>
@@ -11,3 +9,5 @@
   <li>Laracamp (BuildWithAngga Course): https://github.com/wahyusantso/Preview-Project-Laracamp-Bwa-Class</li>
   <li>Human Resource Management System V1: https://github.com/wahyusantso/Preview-Project-HRMS-BPR-Sehat-Sejahtera</li>
 </ul>
+
+* [Mobile](https://github.com/wahyusantso/Preview-Project-CitraCafe-Mobile)
